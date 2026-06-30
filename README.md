@@ -10,9 +10,13 @@
 
 ### Áreas de interesse
 
-* 🎨 UI/UX Design
-* 🌐 Desenvolvimento Full Stack
-* ☁️ DevOps
-* 📖 Aprendizado contínuo e novas tecnologias
+- 🎨 UI/UX Design
+- 🌐 Desenvolvimento Full Stack
+- ☁️ DevOps
+- 📖 Aprendizado contínuo e novas tecnologias
 
 > "Construindo software que une boa experiência, código de qualidade e evolução constante."
+
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/sylveon-pixell-gif-27568480" alt="Sylveon GIF">
+</p>
