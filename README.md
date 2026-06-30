@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Julianna Emilia 👋
 
-<!--
-**juliannaedev/juliannaedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora *Full Stack* apaixonada por criar aplicações funcionais, escaláveis e com foco na experiência do usuário.
 
-Here are some ideas to get you started:
+🎨 Tenho grande interesse em *UI/UX*, buscando desenvolver interfaces intuitivas, acessíveis e visualmente atraentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Atualmente estou aprofundando meus conhecimentos em *DevOps*, explorando automação, CI/CD, containers, infraestrutura e boas práticas de deploy.
+
+📚 Acredito no aprendizado contínuo e estou sempre estudando novas tecnologias, arquiteturas e ferramentas para evoluir como desenvolvedor.
+
+### Áreas de interesse
+
+* 🎨 UI/UX Design
+* 🌐 Desenvolvimento Full Stack
+* ☁️ DevOps
+* 📖 Aprendizado contínuo e novas tecnologias
+
+> "Construindo software que une boa experiência, código de qualidade e evolução constante."
