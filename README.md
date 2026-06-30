@@ -18,5 +18,5 @@
 > "Construindo software que une boa experiência, código de qualidade e evolução constante."
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/sylveon-pixell-gif-27568480" alt="Sylveon GIF">
+ <img width="640" height="204" alt="Image" src="https://github.com/user-attachments/assets/591c7980-6f26-43b2-b50a-6012bb458ddb" />
 </p>
