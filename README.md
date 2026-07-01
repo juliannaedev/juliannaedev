@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:ec0868,100:c200fb&reversal=false&textBg=false">
 <h1 align="center">Olá, eu sou Juliana Emilia</h1>
 
 💻 Desenvolvedora *Full Stack* apaixonada por criar aplicações funcionais, escaláveis e com foco na experiência do usuário.
